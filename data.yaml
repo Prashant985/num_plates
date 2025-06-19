@@ -1,0 +1,5 @@
+path: /Users/prashantshah/Desktop/num_plates
+train: /Users/prashantshah/Desktop/num_plates/images/train
+val: /Users/prashantshah/Desktop/num_plates/images/val
+names: ['number_plate', 'motorcycle', 'person']
+nc: 3
